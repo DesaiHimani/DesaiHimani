@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DesaiHimani
-- 👀 I’m interested in **Test Automation - Selenium Cypress, Playwright, JMeter, Robot Framework**
+- 👀 I’m interested in **Test Automation - Selenium, Cypress, Playwright, JMeter, Robot Framework**
 - 🌱 I’m currently learning "**Playwright**"
 - 📫 How to reach me desai.himani@hotmail.com
 
